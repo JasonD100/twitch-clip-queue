@@ -14,6 +14,10 @@ function MyCredits() {
         <BrandButton href="https://www.twitch.tv/SirMuffin9" icon={<BrandTwitch size={16} />}>
           SirMuffin9
         </BrandButton>
+        <div>with</div>
+        <BrandButton href="https://www.twitch.tv/JasonD100" icon={<BrandTwitch size={16} />}>
+          JasonD100
+        </BrandButton>
       </Group>
     </Text>
   );
